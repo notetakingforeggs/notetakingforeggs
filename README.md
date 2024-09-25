@@ -7,7 +7,7 @@ You might find me cycling up and down the Scottish coast with a surfboard, liste
 
 🌱 **Currently learning**: More Java! Fleshing out my understanding of the Spring ecosystem.  
 
-🔭 **Currently working on** : Writing a surf forecasting app.  
+🔭 **Currently working on** : Learning Astro and rebuilding my portfolio site.  
 
 🚀 **Moving towards**: Finding a junior role that in some perfect world sits at the confluence of my interests.  
 
