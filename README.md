@@ -5,7 +5,7 @@ You might find me cycling up and down the Scottish coast with a surfboard, liste
 
 🎓 **Northcoders Java Bootcamp** : Graduated July 2024.  
 
-🌱 **Currently learning**: More Java! Fleshing out my understanding of the Spring ecosystem.  
+🌱 **Currently learning**: Front-end: Working my way through The Odin Project to consolidate my understanding of front end webdev.
 
 🔭 **Currently working on** : Learning Astro and rebuilding my portfolio site.  
 
